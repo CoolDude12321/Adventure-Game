@@ -18,6 +18,7 @@ A Python-based text adventure game where the player explores different paths to 
 The game begins by greeting the player & asking for their name. From there, the player must choose between two starting paths:
 - Explore a dark & magical forest
 - Enter an ancient castle cave
+
 Each path presents new choices that determines the final outcome. Depending on the player's decisions, the adventure may result in:
 - Victory : discovering the hidden treasures
 - Failure : making a poor decision that ends the journey
